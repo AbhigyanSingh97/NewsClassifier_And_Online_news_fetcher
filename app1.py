@@ -95,7 +95,7 @@ def main():
 
     st.image("https://raw.githubusercontent.com/AbhigyanSingh97/NewsClassifier_And_Online_news_fetcher/main/GIF/newspaper-clipart-black-and-white-8.jpg", width = 150, use_column_width=True, clamp = True)
 
-    secret = '62d1569d3f804f20a13960a7a5e51a6b'
+    secret = 'SecretAPI'
     url = 'https://newsapi.org/v2/everything?'
 
 
