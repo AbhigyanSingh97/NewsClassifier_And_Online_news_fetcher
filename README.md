@@ -56,9 +56,11 @@ News data obtained from Kaggle. [link](https://www.kaggle.com/rmisra/news-catego
 # **Result**
 1. *Predict Only*</br>
     <img alt="GIF" src="GIF/Onlypredict.gif"/>
-</br>
+
+
 2. *Predict and fetch news online*</br>
     <img alt="GIF" src="GIF/predictandfetch.gif" />
-</br>
+
+
 3. *Manual Search online*</br>
     <img alt="GIF" src="GIF/manual.gif" />
