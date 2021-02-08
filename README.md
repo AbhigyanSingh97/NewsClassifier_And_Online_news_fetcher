@@ -10,6 +10,8 @@ News Classifier aims to classify news depending on the several categories of new
 ---
 
 ### **Complete Walkthrough** of the process is documented in my **Medium Article**, Do have a look at it from this [link](https://abhigyan-singh282.medium.com/building-containerizing-and-deploying-a-news-classifier-app-e5eb09dfbb3e).
+
+The app has been containerized using Docker and deployed on AWS using Fargate.
 ---
 # **Data**
 News data obtained from Kaggle. [link](https://www.kaggle.com/rmisra/news-category-dataset)
